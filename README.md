@@ -4,7 +4,7 @@
 
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : damien.cazenave.navis@gmail.com or on linkedin : https://www.linkedin.com/in/damien-cazenave-376766199
+- 📫 How to reach me : damien.cazenave.navis@gmail.com , linkedin : https://www.linkedin.com/in/damien-cazenave-376766199 , Google Scholar : https://scholar.google.com/citations?user=EziCxb0AAAAJ&hl=fr&oi=ao
 
 <!---
 dcazenav/dcazenav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
